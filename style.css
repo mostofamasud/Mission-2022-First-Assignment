@@ -1,0 +1,197 @@
+/* Default CSS */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+.marginPadding{
+    margin: 0;
+    padding: 0;
+}
+h1
+{
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+h2
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color: #333333;
+}
+
+p{
+    font-size: 17px;
+}
+.high-light-text{
+    color: #cf7846;
+}
+.d-flex
+{
+    display: flex;
+}
+.half-width-left{
+    width: 58%;
+}
+.half-width-right{
+    width: 38%;
+}
+
+.default-btn{
+    text-decoration: none;
+    color: #fff;
+    background: #ff5959;
+    display: inline-block;
+    padding: 10px 17px; 
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+
+/* Top Section CSS */
+.top-section{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.top-section h1{
+    margin-left: 10px;
+}
+
+.top-section-left{
+    border-left: 4px solid #ff5959;
+    margin: 20px 0;
+}
+.top-section img{   
+    width: 100%;
+    max-width: 100%;
+    margin-top: -130px;
+    margin-left: 100px;
+}
+
+/* Mission Section CSS */
+.mission-heading h2{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-weight: 800;
+}
+.mission-plan
+{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.mission-details{
+    border-radius: 25px;
+    padding: 30px;
+    margin: 20px;
+
+}
+.mission-section p{
+    font-size: 15px;
+}
+.mission-details img{
+    width: 50%;
+}
+#mission{
+    background: #edf5f6;
+}
+#vission{
+    background: #ffeeee;
+}
+#goals{
+    background: #fff4d6;
+}
+
+/* Develop Section */
+.develop-section{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.develop-section img{
+    width: 95%;
+    max-width: 100%;
+}
+.develop-section-right{
+    margin: 70px 0px;
+    margin-left: 50px;
+}
+
+/* Global Community */
+.global-section{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.global-section img{
+    width: 95%;
+    max-width: 100%;
+    margin-left: 40px;
+}
+.global-section-right{
+    margin: 70px 0px;
+    text-align: justify;
+}
+
+/* Contact */
+.contact-section
+{
+    width: 80%;
+    margin: auto;
+    margin-bottom: -5px;
+}
+/* .footer-section label{
+    display: block;
+} */
+label p{
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px;
+}
+.form-field{
+    border: none;
+    box-shadow: 15px 5px 10px #ddd;
+    font-size: 17px;
+    padding: 10px;
+    display: block;
+}
+.contact-form-left{
+    width: 50%;
+}
+.contact-form-right{
+    width: 50%;
+}
+.form-btn{
+    border: none;
+    margin-top: 20px;
+    margin: 0 50%;
+}
+
+
+/* Footer */
+.footer-section{
+    padding: 35px 0px;
+    background: #0b0d16;
+    color: #fff;
+    text-align: center;
+    display: block;
+}
+.footer-section h1{
+    font-size: 35px;
+    font-weight: 700;
+    padding: 0px;
+}
+.footer-section p{
+    font-size: 13px;
+    padding: 0px;
+    color: #d9dbe1;
+    font-weight: 300;
+}
